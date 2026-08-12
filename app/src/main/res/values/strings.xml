@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WiFi Motion Tracker</string>
+    <string name="router_model">UBIQCOM UB5021 GVWD</string>
+    <string name="start_monitoring">Start Monitoring</string>
+    <string name="stop_monitoring">Stop Monitoring</string>
+    <string name="calibrating">Calibrating</string>
+    <string name="stationary">Stationary</string>
+    <string name="minor_motion">Minor Motion</string>
+    <string name="moderate_motion">Active Motion</string>
+    <string name="heavy_motion">Vigorous Motion</string>
+</resources>

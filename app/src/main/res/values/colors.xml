@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navy_deep">#070B1A</color>
+    <color name="navy_surface">#0D1224</color>
+    <color name="navy_card">#121830</color>
+    <color name="cyan_primary">#00E5FF</color>
+</resources>
